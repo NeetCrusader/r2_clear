@@ -1,5 +1,5 @@
 {
-  "name": "r2-clear",
+  "name": "r2_clear",
   "version": "1.0.1",
   "description": "",
   "main": "index.ts",
@@ -7,7 +7,7 @@
     "start": "ts-node index.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "ZyRox",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
